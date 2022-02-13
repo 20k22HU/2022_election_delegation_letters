@@ -1,0 +1,104 @@
+[
+  {
+    "id": "02",
+    "name": "Baranya",
+    "tevks": [
+      {
+        "id": "036",
+        "name": "Boldogasszonyfalva",
+        "zones": [
+          {
+            "id": "01",
+            "delegees": [
+              {
+                "userID": "1432531",
+                "name": "Tesztadat Elemér",
+                "szsz": "1 234567 8912",
+                "address": "1133 Budapest, Visegrádi utca 110.",
+                "email": "example@gmail.com",
+                "phone": "30-873-1234"
+              },
+              {
+                "userID": "1432532",
+                "name": "Tesztadat Béla",
+                "szsz": "1 234567 8912",
+                "address": "5534 Okány, Tompa Mihály utca 1-7.",
+                "email": "example@gmail.com",
+                "phone": "30-873-1234"
+              }
+            ]
+          },
+          {
+            "id": "02",
+            "delegees": [
+              {
+                "userID": "1432533",
+                "name": "Ifj. Prof. Nagyonhosszúnevű-Tesztadat Zebulon",
+                "szsz": "1 234567 8912",
+                "address": "5539 Körösnagyharsány, Kossuth Lajos u. 3",
+                "email": "example@gmail.com",
+                "phone": "30-873-1234"
+              },
+              {
+                "userID": "1432534",
+                "name": "Árvíztűrő Tükörfúrógép",
+                "address": "4172 Biharnagybajom, Bajcsy-Zsilinszky utca 5-1.",
+                "szsz": "1 234567 8912",
+                "email": "example@gmail.com",
+                "phone": "30-873-1234"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "039",
+        "name": "Botykapeterd",
+        "zones": [
+          {
+            "id": "01",
+            "delegees": [
+              {
+                "userID": "1432532",
+                "name": "Kiss Elemér",
+                "szsz": "1 234567 8912",
+                "address": "5534 Okány, Tompa Mihály utca 1-7.",
+                "email": "kelemer@gmail.com",
+                "phone": "30-873-1234"
+              },
+              {
+                "userID": "1432532",
+                "name": "Kiss Elemér",
+                "szsz": "1 234567 8912",
+                "address": "5534 Okány, Tompa Mihály utca 1-7.",
+                "email": "kelemer@gmail.com",
+                "phone": "30-873-1234"
+              }
+            ]
+          },
+          {
+            "id": "02",
+            "delegees": [
+              {
+                "userID": "1432532",
+                "name": "Kiss Elemér",
+                "szsz": "1 234567 8912",
+                "address": "5534 Okány, Tompa Mihály utca 1-7.",
+                "email": "kelemer@gmail.com",
+                "phone": "30-873-1234"
+              },
+              {
+                "userID": "1432532",
+                "name": "Kiss Elemér",
+                "szsz": "1 234567 8912",
+                "address": "5534 Okány, Tompa Mihály utca 1-7.",
+                "email": "kelemer@gmail.com",
+                "phone": "30-873-1234"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
