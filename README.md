@@ -9,6 +9,7 @@ It is a draft that should eventually do the following:
 
 - Currently, user data comes from a local json dummy file
 - The LibreOffice pdf conversion is not coded
+- Filename should start with numerical UID:OEVK-TEVK
 
 ### What is done?
 - The Jinja template is functional
