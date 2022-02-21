@@ -1,6 +1,6 @@
 ## a 2022-es OGY választások ellenzéki szavazatszámlálóinak a megbízólevelei
 
-Ez a script ebben a formában a GCP Vertex AI notebookjában fut.
+Ez a script ebben a formában a [GCP Vertex AI notebookjában](https://cloud.google.com/vertex-ai/docs/workbench/managed/create-instance) fut.
 
 - **/src/datagen.ipynb:** tesztadat generálás, hogy lehessen a szkriptet sok adattal megtolni még a beosztás befejezése előtt
 - **/src/docugen.ipynb:** dokumentumok legenerálása sablon és tesztadat alapján: Jinja > ~500 html > LibreOffice > pdf > zip
