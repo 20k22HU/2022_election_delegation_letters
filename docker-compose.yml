@@ -1,0 +1,8 @@
+version: "3.9"
+
+services:
+  docugen:
+    build: .
+    volumes:
+      - ./input:/home/jupyter/20k_docgen/input/
+      - ./output:/home/jupyter/20k_docgen/output/
