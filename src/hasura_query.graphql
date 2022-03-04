@@ -1,0 +1,39 @@
+{
+  delegation_processes {
+    town_id
+    town {
+      town_name
+      country_code
+      country_name
+      voting_locations {
+        id
+        location_number
+        voting_district_short_name
+        user_2_voting_locations (where: {delegation_status: {_eq: "waiting_for_delegation"}}) {
+          user {
+          user_detail {
+            personal_identity_num
+            legal_name      
+          }
+          user_addresses (where: {address_type_cd:{ _eq: lakcim }}) {
+            postal_cd
+            city_name
+            street_name
+            street_type {
+              comment
+            }
+            street_num
+          }
+        }
+        analog_user {
+          email_address
+          identity_num
+          phone_num
+          full_name
+          address
+        }
+        }
+      }
+    }
+  }
+}
